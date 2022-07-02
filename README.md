@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ge-Peng (Daniel) Ji</h1>
-<h3 align="center">A deep learning enthusiast from China. I love using Python to explore everything in the hello world.</h3>
-
-- 🔭 I’m currently working on **computer vision, medical image analysis, and video understanding**.
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gewelsji&show_icons=true&locale=en" alt="gewelsji" /></p>
+<h3 align="center">A deep learning enthusiast from China. I’m currently working on fancy things on computer vision, medical image analysis, and video understanding. I love using Python to explore everything in the hello world.</h3>
 
 <h3 align="left">News:</h3>
 
-- [26/May/2022] We propose a simple but efficient framework, DGNet, with a novel object gradient supervision for camouflaged object detection (COD). We also provide a comprehensive COD benchmark (20 models) and evaluation toolboxes. Click [here](https://github.com/GewelsJI/DGNet) for more details.
+- [26/May/2022] We propose a simple but efficient framework, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD). We also provide a comprehensive COD benchmark (20 models) and evaluation toolboxes. Click [here](https://github.com/GewelsJI/DGNet) for more details.
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gewelsji&show_icons=true&locale=en" alt="gewelsji" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
