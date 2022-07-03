@@ -3,8 +3,8 @@
 
 <h3 align="left">News:</h3>
 
-- [03/July/2022] We release the first large-scale fine-grained dataset, **SUN-SEG**, for the task of video polyp segmentation. Click [here](https://github.com/GewelsJI/VPS) for more details.
-- [26/May/2022] We propose a simple but efficient framework, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD). We also provide a comprehensive COD benchmark (20 models) and evaluation toolboxes. Click [here](https://github.com/GewelsJI/DGNet) for more details.
+- *[03/July/2022]* We release the first large-scale fine-grained dataset **SUN-SEG** for the medical analysis task, video polyp segmentation. Click [here](https://github.com/GewelsJI/VPS) for more details.
+- *[26/May/2022]* We propose a simple but efficient framework, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD). We also provide a comprehensive COD benchmark (20 models) and evaluation toolboxes. Click [here](https://github.com/GewelsJI/DGNet) for more details.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gewelsji&show_icons=true&locale=en" alt="gewelsji" /></p>
 
