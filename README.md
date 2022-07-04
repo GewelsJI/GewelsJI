@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ge-Peng (Daniel) Ji</h1>
-<h3 align="center">A deep learning enthusiast from China. I’m currently working on fancy things on computer vision, medical image analysis, and video understanding. I love using Python to explore everything in the hello world.</h3>
+<h1 align="center">Homepage</h1>
 
-<h3 align="left">News:</h3>
+<h2 align="left">About me</h2>
+
+Hi 👋, I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from China. I love using Python to explore everything in the hello world. My primary research interest lies in working on fancy things on computer vision, medical image analysis, and video understanding, especially how to design an effective and applicable algorithm to parse camouflaged scenes (e.g., medical lesions, industrial defects) in daily life, which would confuse the visual systems due to their inherently special properties.
+
+<h2 align="left">News</h2>
 
 - *[03/July/2022]* We release the first large-scale fine-grained dataset **SUN-SEG** for the medical analysis task, video polyp segmentation. Click [here](https://github.com/GewelsJI/VPS) for more details.
 - *[26/May/2022]* We propose a simple but efficient framework, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD). We also provide a comprehensive COD benchmark (20 models) and evaluation toolboxes. Click [here](https://github.com/GewelsJI/DGNet) for more details.
