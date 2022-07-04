@@ -21,6 +21,7 @@ My primary research interest lies in working on fancy things on computer vision,
 - *[03/July/2022]* :bangbang: We release the first large-scale fine-grained dataset **SUN-SEG** for the medical analysis task, video polyp segmentation. Click [here](https://github.com/GewelsJI/VPS) for more details.
 - *[26/May/2022]* :heavy_exclamation_mark: We propose a simple but efficient framework, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD). We also provide a comprehensive COD benchmark (20 models) and evaluation toolboxes. Click [here](https://github.com/GewelsJI/DGNet) for more details.
 
+<!--
 <h2 align="left">Top Repository Pins</h2>
   
 Here are selected github projects of my research. If you have any questions, please directly push an issue or feel free to drop me an e-mail.
@@ -44,7 +45,7 @@ Here are selected github projects of my research. If you have any questions, ple
 <h3 align="left">C. Video Content Understanding</h3>
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=FSNet&theme=buefy)](https://github.com/GewelsJI/FSNet)
-
+--!>
 
 <h2 align="left">Languages and Tools</h2>
 
