@@ -35,7 +35,7 @@ Here are selected github projects of my research. If you have any questions, ple
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=SINet&theme=dracula)](https://github.com/DengPingFan/SINet)
 
 
-<h3 align="left">B. Medical Analysis</h3>
+<h3 align="left">B. Medical Image Analysis</h3>
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=VPS&theme=dracula)](https://github.com/GewelsJI/VPS)
 
@@ -46,7 +46,7 @@ Here are selected github projects of my research. If you have any questions, ple
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=PraNet&theme=dracula)](https://github.com/DengPingFan/PraNet)
 
 
-<h3 align="left">C. Video Understanding</h3>
+<h3 align="left">C. Video Context Understanding</h3>
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=FSNet&theme=dracula)](https://github.com/GewelsJI/FSNet)
 
