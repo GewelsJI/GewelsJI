@@ -1,6 +1,6 @@
-<h1 align="center">Homepage</h1>
+<h1 align="center">Daniel's Homepage</h1>
 
-Hi 👋, I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, China. I love using Python to explore everything in the hello world. 
+Hi 👋 I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, CHINA. I love using Python to explore everything in the hello world. 
 
 | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GewelsJI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GewelsJI&layout=compact&theme=buefy&hide_border=true" />|
 | ------------- | ------------- |
