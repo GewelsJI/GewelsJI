@@ -46,7 +46,7 @@ Here are selected github projects of my research. If you have any questions, ple
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=PraNet&theme=dracula)](https://github.com/DengPingFan/PraNet)
 
 
-<h3 align="left">C. Video Context Understanding</h3>
+<h3 align="left">C. Video Content Understanding</h3>
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=FSNet&theme=dracula)](https://github.com/GewelsJI/FSNet)
 
