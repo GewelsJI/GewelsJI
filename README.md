@@ -22,8 +22,10 @@ My primary research interest lies in working on fancy things on computer vision,
 - *[26/May/2022]* :heavy_exclamation_mark: We propose a simple but efficient framework, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD). We also provide a comprehensive COD benchmark (20 models) and evaluation toolboxes. Click [here](https://github.com/GewelsJI/DGNet) for more details.
 
 <h2 align="left">Top Repository Pins</h2>
+  
+Here are selected github projects of my research. If you have any questions, please directly push an issue or feel free to drop me an e-mail.
 
-<h3 align="left">A. Camouflaged Scene Parsing</h3>
+<h3 align="left">A. Camouflaged Scene Understanding</h3>
 
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=DGNet&theme=dracula)](https://github.com/GewelsJI/DGNet)
