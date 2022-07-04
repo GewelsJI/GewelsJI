@@ -1,6 +1,16 @@
 <h1 align="center">Homepage</h1>
 
-Hi 👋, I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from China. I love using Python to explore everything in the hello world. 
+Hi 👋, I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, China. I love using Python to explore everything in the hello world. 
+
+| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GewelsJI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GewelsJI&layout=compact&theme=buefy&hide_border=true" />|
+| ------------- | ------------- |
+
+<p> 
+  <a href="https://github.com/GewelsJI?tab=followers"> <img src="https://img.shields.io/github/stars/GewelsJI?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
+  <a href="mailto:gepengai.ji@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
+  <a href="https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en"><img src="https://img.shields.io/badge/More-Google Scholar-green?style=plastic"height="20px"> </a>
+  <a href="center"><img src="https://komarev.com/ghpvc/?username=GewelsJI" alt="GewelsJI" height="20px"> </a>
+</p>
 
 <h2 align="left">Research Interests</h2>
 
@@ -8,30 +18,35 @@ My primary research interest lies in working on fancy things on computer vision,
 
 <h2 align="left">Updated News</h2>
 
-- *[03/July/2022]* We release the first large-scale fine-grained dataset **SUN-SEG** for the medical analysis task, video polyp segmentation. Click [here](https://github.com/GewelsJI/VPS) for more details.
-- *[26/May/2022]* We propose a simple but efficient framework, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD). We also provide a comprehensive COD benchmark (20 models) and evaluation toolboxes. Click [here](https://github.com/GewelsJI/DGNet) for more details.
+- *[03/July/2022]* :bangbang: We release the first large-scale fine-grained dataset **SUN-SEG** for the medical analysis task, video polyp segmentation. Click [here](https://github.com/GewelsJI/VPS) for more details.
+- *[26/May/2022]* :zap: We propose a simple but efficient framework, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD). We also provide a comprehensive COD benchmark (20 models) and evaluation toolboxes. Click [here](https://github.com/GewelsJI/DGNet) for more details.
 
 <h2 align="left">Top Repository Pins</h2>
 
 <h3 align="left">A. Camouflaged Scene Parsing</h3>
 
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=DGNet&theme=rose_pine)](https://github.com/GewelsJI/DGNet)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=SINet-V2&theme=rose_pine)](https://github.com/GewelsJI/SINet-V2)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=SINet&theme=rose_pine)](https://github.com/DengPingFan/SINet)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=DGNet&theme=dracula)](https://github.com/GewelsJI/DGNet)
+
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=SINet-V2&theme=dracula)](https://github.com/GewelsJI/SINet-V2)
+
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=SINet&theme=dracula)](https://github.com/DengPingFan/SINet)
 
 
 <h3 align="left">B. Medical Analysis</h3>
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=VPS&theme=rose_pine)](https://github.com/GewelsJI/VPS)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=PNS-Net&theme=rose_pine)](https://github.com/GewelsJI/PNS-Net)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=Inf-Net&theme=rose_pine)](https://github.com/DengPingFan/Inf-Net)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=PraNet&theme=rose_pine)](https://github.com/DengPingFan/PraNet)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=VPS&theme=dracula)](https://github.com/GewelsJI/VPS)
+
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=PNS-Net&theme=dracula)](https://github.com/GewelsJI/PNS-Net)
+
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=Inf-Net&theme=dracula)](https://github.com/DengPingFan/Inf-Net)
+
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=PraNet&theme=dracula)](https://github.com/DengPingFan/PraNet)
 
 
 <h3 align="left">C. Video Understanding</h3>
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=FSNet&theme=rose_pine)](https://github.com/GewelsJI/FSNet)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=FSNet&theme=dracula)](https://github.com/GewelsJI/FSNet)
 
 
 <h2 align="left">Languages and Tools</h2>
