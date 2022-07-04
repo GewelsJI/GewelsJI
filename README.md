@@ -14,7 +14,7 @@ Hi 👋 I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, CHINA. I
 
 <h2 align="left">Research Interests</h2>
 
-My primary research interest lies in working on fancy things on computer vision, medical image analysis, and video understanding, especially how to design an effective and applicable algorithm to parse camouflaged scenes (e.g., medical lesions, industrial defects) in daily life, which would confuse the visual systems due to their inherently special properties.
+My primary research interest lies in working on fancy things on computer vision, medical image analysis, and video understanding, especially how to design an effective and applicable algorithm to parse camouflaged scenes (e.g., camouflaged objects/animals, medical lesions, industrial defects) in the real-world, which would confuse the visual systems due to their inherently special properties.
 
 <h2 align="left">Updated News</h2>
 
