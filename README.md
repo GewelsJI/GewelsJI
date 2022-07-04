@@ -28,27 +28,22 @@ Here are selected github projects of my research. If you have any questions, ple
 <h3 align="left">A. Camouflaged Scene Understanding</h3>
 
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=DGNet&theme=dracula)](https://github.com/GewelsJI/DGNet)
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=SINet-V2&theme=dracula)](https://github.com/GewelsJI/SINet-V2)
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=SINet&theme=dracula)](https://github.com/DengPingFan/SINet)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=DGNet&theme=buefy)](https://github.com/GewelsJI/DGNet)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=SINet-V2&theme=buefy)](https://github.com/GewelsJI/SINet-V2)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=SINet&theme=buefy)](https://github.com/DengPingFan/SINet)
 
 
 <h3 align="left">B. Medical Image Analysis</h3>
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=VPS&theme=dracula)](https://github.com/GewelsJI/VPS)
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=PNS-Net&theme=dracula)](https://github.com/GewelsJI/PNS-Net)
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=Inf-Net&theme=dracula)](https://github.com/DengPingFan/Inf-Net)
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=PraNet&theme=dracula)](https://github.com/DengPingFan/PraNet)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=VPS&theme=buefy)](https://github.com/GewelsJI/VPS)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=PNS-Net&theme=buefy)](https://github.com/GewelsJI/PNS-Net)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=Inf-Net&theme=buefy)](https://github.com/DengPingFan/Inf-Net)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=PraNet&theme=buefy)](https://github.com/DengPingFan/PraNet)
 
 
 <h3 align="left">C. Video Content Understanding</h3>
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=FSNet&theme=dracula)](https://github.com/GewelsJI/FSNet)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=FSNet&theme=buefy)](https://github.com/GewelsJI/FSNet)
 
 
 <h2 align="left">Languages and Tools</h2>
