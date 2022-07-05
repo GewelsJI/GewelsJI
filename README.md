@@ -18,7 +18,7 @@ My primary research interest lies in working on fancy things on computer vision,
 
 <h2 align="left">Updated News</h2>
 
-- *[03/July/2022]* :bangbang: We release the first large-scale fine-grained dataset **SUN-SEG** for the medical analysis task, video polyp segmentation. Click [here](https://github.com/GewelsJI/VPS) for more details.
+- *[05/July/2022]* :bangbang: We release the first large-scale fine-grained dataset **SUN-SEG** for the medical analysis task, video polyp segmentation. For more details, please refer to [project page](https://github.com/GewelsJI/VPS) / [technical report](https://arxiv.org/pdf/2203.14291v2.pdf).
 - *[26/May/2022]* :heavy_exclamation_mark: We propose a simple but efficient framework, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD). We also provide a comprehensive COD benchmark (20 models) and evaluation toolboxes. Click [here](https://github.com/GewelsJI/DGNet) for more details.
 
 <!--
