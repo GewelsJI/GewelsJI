@@ -7,8 +7,6 @@
 
 I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, CHINA :cn:. I love using Python to explore everything in the hello world. 
 
-| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GewelsJI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GewelsJI&layout=compact&theme=buefy&hide_border=true" />|
-| ------------- | ------------- |
 
 <p> 
   <a href="https://github.com/GewelsJI?tab=followers"> <img src="https://img.shields.io/github/stars/GewelsJI?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
@@ -16,6 +14,8 @@ I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, CHINA :cn:. I lo
   <a href="https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en"><img src="https://img.shields.io/badge/More-Google Scholar-green?style=plastic"height="20px"> </a>
   <a href="center"><img src="https://komarev.com/ghpvc/?username=GewelsJI" alt="GewelsJI" height="20px"> </a>
 </p>
+
+
 
 
 <h2 align="left">Research Interests</h2>
@@ -28,32 +28,11 @@ My primary research interest lies in working on fancy things on computer vision,
 - *[05/July/2022]* :bangbang: We release the first large-scale fine-grained dataset **SUN-SEG** for the medical analysis task, video polyp segmentation. For more details, please refer to [project page](https://github.com/GewelsJI/VPS) / [technical report](https://arxiv.org/pdf/2203.14291v2.pdf).
 - *[26/May/2022]* :heavy_exclamation_mark: We propose a simple but efficient baseline, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD) task. Additionally, we construct a comprehensive COD benchmark with 20 competed approaches. Read our [technical report](https://arxiv.org/pdf/2205.12853.pdf) for more details. We also implement our model code via [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib) & [PyTorch](https://github.com/GewelsJI/DGNet/tree/main/pytorch_lib) toolboxes.
 
+<h2 align="left">Real-time Stats</h2>
 
-<!--
-<h2 align="left">Top Repository Pins</h2>
-  
-Here are selected github projects of my research. If you have any questions, please directly push an issue or feel free to drop me an e-mail.
+| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GewelsJI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GewelsJI&layout=compact&theme=buefy&hide_border=true" />|
+| ------------- | ------------- |
 
-<h3 align="left">A. Camouflaged Scene Understanding</h3>
-
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=DGNet&theme=buefy)](https://github.com/GewelsJI/DGNet)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=SINet-V2&theme=buefy)](https://github.com/GewelsJI/SINet-V2)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=SINet&theme=buefy)](https://github.com/DengPingFan/SINet)
-
-
-<h3 align="left">B. Medical Image Analysis</h3>
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=VPS&theme=buefy)](https://github.com/GewelsJI/VPS)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=PNS-Net&theme=buefy)](https://github.com/GewelsJI/PNS-Net)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=Inf-Net&theme=buefy)](https://github.com/DengPingFan/Inf-Net)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=DengPingFan&repo=PraNet&theme=buefy)](https://github.com/DengPingFan/PraNet)
-
-
-<h3 align="left">C. Video Content Understanding</h3>
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=FSNet&theme=buefy)](https://github.com/GewelsJI/FSNet)
---!>
 
 <h2 align="left">Languages and Tools</h2>
 
