@@ -12,14 +12,17 @@ Hi 👋 I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, CHINA. I
   <a href="center"><img src="https://komarev.com/ghpvc/?username=GewelsJI" alt="GewelsJI" height="20px"> </a>
 </p>
 
+
 <h2 align="left">Research Interests</h2>
 
 My primary research interest lies in working on fancy things on computer vision, medical image analysis, and video understanding, especially how to design an effective and applicable algorithm to parse camouflaged scenes (e.g., camouflaged objects/animals, medical lesions, industrial defects) in the real-world, which would confuse the visual systems due to their inherently special properties.
 
+
 <h2 align="left">Updated News</h2>
 
 - *[05/July/2022]* :bangbang: We release the first large-scale fine-grained dataset **SUN-SEG** for the medical analysis task, video polyp segmentation. For more details, please refer to [project page](https://github.com/GewelsJI/VPS) / [technical report](https://arxiv.org/pdf/2203.14291v2.pdf).
-- *[26/May/2022]* :heavy_exclamation_mark: We propose a simple but efficient framework, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD). We also provide a comprehensive COD benchmark (20 models) and evaluation toolboxes. Click [here](https://github.com/GewelsJI/DGNet) for more details.
+- *[26/May/2022]* :heavy_exclamation_mark: We propose a simple but efficient baseline, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD) task. Additionally, we construct a comprehensive COD benchmark with 20 competed approaches. Read our [technical report](https://arxiv.org/pdf/2205.12853.pdf) for more details. We also implement our model code via [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib) & [PyTorch](https://github.com/GewelsJI/DGNet/tree/main/pytorch_lib) toolboxes.
+
 
 <!--
 <h2 align="left">Top Repository Pins</h2>
