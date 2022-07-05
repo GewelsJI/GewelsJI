@@ -1,6 +1,11 @@
-<h1 align="center">Daniel's Homepage</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Hi 👋 I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, CHINA. I love using Python to explore everything in the hello world. 
+<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to Daniel's Homepage</h1>
+
+
+I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, CHINA :cn:. I love using Python to explore everything in the hello world. 
 
 | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GewelsJI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GewelsJI&layout=compact&theme=buefy&hide_border=true" />|
 | ------------- | ------------- |
