@@ -20,12 +20,11 @@ I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, CHINA :cn:. I lo
 
 <h2 align="left">Research Interests</h2>
 
-My primary research interest lies in working on fancy things on computer vision, medical image analysis, and video understanding, especially how to design an effective and applicable algorithm to parse camouflaged scenes (e.g., camouflaged objects/animals, medical lesions, industrial defects) in the real-world, which would confuse the visual systems due to their inherently special properties.
-
+My primary research interest lies in working on fancy things on the world of computer vision, such as medical image analysis and video content understanding, especially on how to design an effective and applicable algorithm to resolve real-world problems. For instance, parsing camouflaged scenes (e.g., camouflaged objects/animals, medical lesions, industrial defects) in the real-world, which would confuse the visual systems due to their inherently special properties.
 
 <h2 align="left">Updated News</h2>
 
-- *[05/July/2022]* :bangbang: We release the first large-scale VPS dataset, termed **SUN-SEG**, containing 158,690 frames with densely-annotated labels. These labels can further support the development of medical colonoscopy diagnosis, localization, and their derivative tasks. For more details, please refer to [project page](https://github.com/GewelsJI/VPS) / [technical report](https://arxiv.org/pdf/2203.14291v2.pdf).
+- *[05/July/2022]* :bangbang: We release the first large-scale VPS dataset, termed **SUN-SEG**, containing 158,690 frames with densely-annotated labels. These labels can further support the development of medical colonoscopy diagnosis, localization, and their derivative tasks. For more details, please refer to our [project page](https://github.com/GewelsJI/VPS) / [technical report](https://arxiv.org/pdf/2203.14291v2.pdf).
 
 - *[26/May/2022]* :heavy_exclamation_mark: We propose a simple but efficient baseline, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD) task. Additionally, we construct a comprehensive COD benchmark with 20 competed approaches. Read our [technical report](https://arxiv.org/pdf/2205.12853.pdf) for more details. We also implement our model via [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib) & [PyTorch](https://github.com/GewelsJI/DGNet/tree/main/pytorch_lib) toolboxes.
 
