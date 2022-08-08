@@ -24,9 +24,9 @@ My primary research interest lies in working on fancy things on the world of com
 
 <h2 align="left">Updated News</h2>
 
-- *[05/July/2022]* :bangbang: We release the first large-scale VPS dataset, termed **SUN-SEG**, containing 158,690 frames with densely-annotated labels. These labels can further support the development of medical colonoscopy diagnosis, localization, and their derivative tasks. For more details, please refer to our [project page](https://github.com/GewelsJI/VPS) / [technical report](https://arxiv.org/pdf/2203.14291v2.pdf).
+- *[06/August/2022]* :heavy_exclamation_mark: Our paper about camouflaged object detection (COD) has been accepted by Machine Intelligence Research (MIR). This is a simple but efficient baseline, **DGNet**, with a novel object gradient supervision for the COD task. Additionally, we construct a comprehensive COD benchmark with 20 competed approaches. Read our [technical report](https://arxiv.org/pdf/2205.12853.pdf) for more details. We also implement our model via [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib) & [PyTorch](https://github.com/GewelsJI/DGNet/tree/main/pytorch_lib) toolboxes.
 
-- *[26/May/2022]* :heavy_exclamation_mark: We propose a simple but efficient baseline, **DGNet**, with a novel object gradient supervision for camouflaged object detection (COD) task. Additionally, we construct a comprehensive COD benchmark with 20 competed approaches. Read our [technical report](https://arxiv.org/pdf/2205.12853.pdf) for more details. We also implement our model via [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib) & [PyTorch](https://github.com/GewelsJI/DGNet/tree/main/pytorch_lib) toolboxes.
+- *[05/July/2022]* :bangbang: We release the first large-scale VPS dataset, termed **SUN-SEG**, containing 158,690 frames with densely-annotated labels. These labels can further support the development of medical colonoscopy diagnosis, localization, and their derivative tasks. For more details, please refer to our [project page](https://github.com/GewelsJI/VPS) / [technical report](https://arxiv.org/pdf/2203.14291v2.pdf).
 
 <h2 align="left">Real-time Stats</h2>
 
