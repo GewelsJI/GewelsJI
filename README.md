@@ -4,10 +4,6 @@
 
 <h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to Daniel's Homepage</h1>
 
-
-I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, CHINA :cn:. I love using Python to explore everything in the hello world. 
-
-
 <p> 
   <a href="https://github.com/GewelsJI?tab=followers"> <img src="https://img.shields.io/github/stars/GewelsJI?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
   <a href="mailto:gepengai.ji@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
@@ -16,11 +12,9 @@ I'm Ge-Peng (Daniel) Ji, a deep learning enthusiast from Wuhan, CHINA :cn:. I lo
 </p>
 
 
+<h2 align="left">Brief Introduction</h2>
 
-
-<h2 align="left">Research Interests</h2>
-
-My primary research interest lies in working on fancy things on the world of computer vision, such as medical image analysis and video content understanding, especially on how to design an effective and applicable algorithm to resolve real-world problems. For instance, parsing camouflaged scenes (e.g., camouflaged objects/animals, medical lesions, industrial defects) in the real-world, which would confuse the visual systems due to their inherently special properties.
+I'm currently a first-year Ph.D. student at the Australian National University, supervised by Professor Nick Barnes. My primary research interest lies in working on fancy applications in computer vision, such as medical image analysis and video content understanding, especially on how to design an effective and applicable algorithms to resolve the dense prediction problems in the real world. For instance, a parody of camouflaged scenes (e.g., camouflaged objects/animals, medical lesions, industrial defects) would confuse the visual systems due to their inherently special properties.
 
 <h2 align="left">Updated News</h2>
 
