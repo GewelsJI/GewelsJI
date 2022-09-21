@@ -14,7 +14,7 @@
 
 <h2 align="left">Brief Introduction</h2>
 
-I'm currently a first-year Ph.D. student at the Australian National University, supervised by Professor Nick Barnes. My primary research interest lies in working on fancy applications in computer vision, such as medical image analysis and video content understanding, especially on how to design an effective and applicable algorithms to resolve the dense prediction problems in the real world. For instance, a parody of camouflaged scenes (e.g., camouflaged objects/animals, medical lesions, industrial defects) would confuse the visual systems due to their inherently special properties.
+I'm currently a first-year Ph.D. student at the Australian National University, supervised by Professor Nick Barnes. My primary research interest lies in working on fancy applications in computer vision, medical image analysis, and video content understanding, especially on how to design an effective and applicable algorithms to resolve the dense prediction problems in the real world. For instance, a parody of camouflaged scenes (e.g., camouflaged objects/animals, medical lesions, industrial defects) would confuse the visual systems due to their inherently special properties.
 
 <h2 align="left">Updated News</h2>
 
