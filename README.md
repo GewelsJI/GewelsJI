@@ -7,14 +7,8 @@
 <p> 
   <a href="https://github.com/GewelsJI?tab=followers"> <img src="https://img.shields.io/github/stars/GewelsJI?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
   <a href="mailto:gepengai.ji@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
-  <a href="https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en"><img src="https://img.shields.io/badge/More-Google Scholar-green?style=plastic"height="20px"> </a>
   <a href="center"><img src="https://komarev.com/ghpvc/?username=GewelsJI" alt="GewelsJI" height="20px"> </a>
 </p>
-
-
-<h2 align="left">Brief Introduction</h2>
-
-I'm currently a first-year Ph.D. student at the Australian National University, supervised by Professor Nick Barnes. My primary research interest lies in working on fancy applications in computer vision, medical image analysis, and video content understanding, especially on how to design an effective and applicable algorithms to resolve the dense prediction problems in the real world.
 
 <h2 align="left">Updated News</h2>
 
