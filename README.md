@@ -10,13 +10,13 @@
   <a href="center"><img src="https://komarev.com/ghpvc/?username=GewelsJI" alt="GewelsJI" height="20px"> </a>
 </p>
 
-<h2 align="left">Updated News</h2>
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Updated News</h1>
 
 - *[24/August/2022]* :bangbang: We present a new task, video polyp segmentation (VPS), which has been accepted by [Machine Intelligence Research (MIR)](https://www.springer.com/journal/11633). We release the first large-scale VPS dataset, termed **SUN-SEG**, containing 158,690 frames with densely-annotated labels. These labels can further support the development of medical colonoscopy diagnosis, localization, and their derivative tasks. For more details, please refer to our [project page](https://github.com/GewelsJI/VPS) / [technical report](https://arxiv.org/pdf/2203.14291v3.pdf).
 
 - *[06/August/2022]* :heavy_exclamation_mark: Our paper about camouflaged object detection (COD) has been accepted by [Machine Intelligence Research (MIR)](https://www.springer.com/journal/11633) journal. This is a simple but efficient baseline, **DGNet**, with a novel object gradient supervision for the COD task. Additionally, we construct a comprehensive COD benchmark with 20 competed approaches. Read our [technical report](https://arxiv.org/pdf/2205.12853.pdf) for more details. We also implement our model via [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib) & [PyTorch](https://github.com/GewelsJI/DGNet/tree/main/pytorch_lib) toolboxes.
 
-<h2 align="left">Real-time Stats</h2>
+<h2 ><img src ="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Real-time Stats</h1>
 
 | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GewelsJI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GewelsJI&layout=compact&theme=buefy&hide_border=true" />|
 | ------------- | ------------- |
